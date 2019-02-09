@@ -1,0 +1,18 @@
+{
+  "name": "orrange_new_tab_api_server",
+  "version": "0.9.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacy Ruszpel",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "node-getpocket": ">0.0.1",
+    "request": ">=1.0.2"
+  }
+}
